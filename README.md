@@ -16,3 +16,6 @@ What resonated with me the most is the article's argument that great SWE isn't j
 ## Reflection
 
 This article is a must-read for anyone aspiring to excel in the software development field, as it provides a holistic view of what it takes to truly stand out and make a difference in your team and projects.
+
+## New comment by Babamayokun Okudero 
+The software development field is worlds away from every infomation and algorithm being developed. This articles gives insight into the field and the requirements and skills it takes to excel in it.
